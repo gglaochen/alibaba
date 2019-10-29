@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alibaba.iml" filepath="$PROJECT_DIR$/alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider-feign/hello-spring-cloud-alibaba-nacos-provider-feign.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider-feign/hello-spring-cloud-alibaba-nacos-provider-feign.iml" />
+    </modules>
+  </component>
+</project>

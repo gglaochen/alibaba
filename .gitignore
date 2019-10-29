@@ -1,0 +1,4 @@
+# Project exclude paths
+/hello-spring-cloud-alibaba-nacos-consumer-feign/target/
+/hello-spring-cloud-alibaba-nacos-provider-feign/target/
+/target/
