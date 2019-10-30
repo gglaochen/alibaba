@@ -16,6 +16,6 @@ public class NacosConsumerFeignConatroller {
 
     @GetMapping(value = "/test/hi")
     public String test() {
-        return FeignService.test("Hi Feign");
+        return FeignService.test1("Hi Feign");
     }
 }
