@@ -10,6 +10,11 @@ import org.springframework.web.bind.annotation.PathVariable;
 @FeignClient(value = "nacos-provider")
 public interface FeignDemoClient {
 
+    /**
+     * 此处声明的接口名无需和提供方接口名一致
+     * @param message
+     * @return
+     */
     @GetMapping(value = "/test/{message}")
-    String test(@PathVariable("message") String message);
+    String test1(@PathVariable("message") String message);
 }
